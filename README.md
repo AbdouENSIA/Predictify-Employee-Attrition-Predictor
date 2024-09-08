@@ -217,10 +217,10 @@ We'll present these metrics in a neat table:
 
 | Metric | Score |
 |--------|-------|
-| MAE    | 0.24  |
-| MSE    | 0.09  |
-| RMSE   | 0.30  |
-| R²     | 0.82  |
+| MAE    | 0.15  |
+| MSE    | 0.15  |
+| RMSE   | 0.39  |
+| R²     | 0.18  |
 
 Remember, in the world of employee attrition, a high recall might be more important than high precision. After all, it's better to give a stay-incentive to someone who wasn't going to leave than to lose someone because we didn't see it coming!
 
